@@ -1,6 +1,7 @@
 @import '@esri/calcite-components/calcite/calcite.css';
 @import '@arcgis/map-components/main.css';
 @import '@arcgis/coding-components/main.css';
+@import 'leaflet/dist/leaflet.css';
 
 html,
 body {
